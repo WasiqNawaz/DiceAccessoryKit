@@ -28,8 +28,8 @@ enum DiceColor: String {
 
     var serviceUUID: CBUUID {
         switch self {
-            case .pink: CBUUID(string: "E56A082E-C49B-47CA-A2AB-389127B8ABE3")
-            case .blue: CBUUID(string: "E56A082E-C49B-47CA-A2AB-389127B8ABE4")
+            case .pink: CBUUID(string: "12345678-1234-5678-1234-567812345678")
+            case .blue: CBUUID(string: "87654321-4321-6789-4321-678987654321")
         }
     }
 }

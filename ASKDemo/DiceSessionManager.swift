@@ -1,9 +1,9 @@
-/*
-See the LICENSE.txt file for this sample’s licensing information.
-
-Abstract:
-Manages the ASAccessorySession and connections to dice accessories.
-*/
+//
+//  DiceSessionManager.swift
+//  ASKDemo
+//
+//  Created by Wasiq on 07/05/2025.
+//
 
 import Foundation
 import AccessorySetupKit

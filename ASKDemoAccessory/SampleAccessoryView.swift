@@ -1,9 +1,9 @@
-/*
-See the LICENSE.txt file for this sample’s licensing information.
-
-Abstract:
-Main view for ASKSampleAccessory.
-*/
+//
+//  SampleAccessoryView.swift
+//  ASKDemo
+//
+//  Created by Wasiq on 07/05/2025.
+//
 
 import SwiftUI
 

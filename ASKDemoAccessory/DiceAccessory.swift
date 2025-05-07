@@ -1,9 +1,9 @@
-/*
-See the LICENSE.txt file for this sample’s licensing information.
-
-Abstract:
-Defines the class for advertising a Bluetooth accessory and posting messages.
-*/
+//
+//  for.swift
+//  ASKDemo
+//
+//  Created by Wasiq on 07/05/2025.
+//
 
 import Foundation
 import CoreBluetooth
